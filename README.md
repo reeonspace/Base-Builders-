@@ -7,3 +7,4 @@ git remote add origin https://github.com/YOUR_USERNAME/base-builder-agent.git
 git branch -M main
 git push -u origin main
 agent call me 
+repo activate 
